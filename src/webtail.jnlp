@@ -47,7 +47,9 @@
     </resources>
     <application-desc
          name="Webstart Tail Application"
-         main-class="webstartComponentArch.WebTail">
+         main-class="webstartComponentArch.WebTail"
+          width="300"
+         height="500">
      </application-desc>
      <update check="background"/>
 </jnlp>
